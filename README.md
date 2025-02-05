@@ -2,7 +2,7 @@
 
 Ce logiciel est destiné à programmer le pare-feu HDMI décrit dans l'article [Un pare-feu pour le HDMI](https://www.sstic.org/2021/presentation/un_pare_feu_pour_le_hdmi/) présenté au SSTIC en 2021.
 
-Pour fonctionner, il nécessite impérativement un câble USB permettant de communiquer en I2C avec un port HDMI. Ce câble est assemblé à partir de deux demi câbles : un [FTDI C232HM-EDHSL-0](https://fdtichip.com/products/c232hm-edhsl-0/) et un demi câble HDMI (coupé en deux).
+Pour fonctionner, il nécessite impérativement un câble USB permettant de communiquer en I2C avec un port HDMI. Ce câble est assemblé à partir de deux demi câbles : un [FTDI C232HM-EDHSL-0](https://ftdichip.com/products/c232hm-edhsl-0/) et un demi câble HDMI (coupé en deux).
 Le plan de câblage est le suivant :
 
 ![Plan de câblage](cable.png)
